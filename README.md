@@ -14,6 +14,34 @@ Built with a modern **React + Vite frontend**, **Node.js + Express backend**, **
 - **Backend API (Render):**  
   https://expense-tracker-backend-tzhu.onrender.com
 
+
+
+---
+## 📸 Screenshots
+
+### 📊 Analytics Dashboard
+![Analytics Dashboard](./screenshots/expense%20tracker_analytics.png)
+
+---
+
+### 🗂 Categories Management
+![Categories Page](./screenshots/expense%20tracker_categories.png)
+
+---
+
+### 🔑 Change Password
+![Change Password](./screenshots/expense%20tracker_change%20password.png)
+
+---
+
+### 🔐 Login Page
+![Login Page](./screenshots/expense%20tracker_login%20page.png)
+
+---
+
+### 📃 Transactions List
+![Transactions Page](./screenshots/expense%20tracker_transaction.png)
+
 ---
 
 ## ✨ Features
@@ -126,6 +154,8 @@ http://localhost:5173
 
 Keep backend and frontend running in two separate terminals during development.
 
+---
+
 📘 API Notes 
 
 All protected routes require:
@@ -161,6 +191,8 @@ Analytics
 
 /api/analytics/monthly-summary
 
+---
+
 🚀 Future Improvements 
 
 Monthly budgets & alerts
@@ -175,10 +207,14 @@ Role-based access control
 
 Export transactions to CSV
 
+---
+
 👩‍💻 Author 
 
 Sphoorthi Reddy
 Full Stack Developer
+
+---
 
 📌 Notes
 
